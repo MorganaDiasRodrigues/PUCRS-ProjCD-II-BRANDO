@@ -3,7 +3,7 @@
 ## Introdução
 No semestre de 2024/1 fui aluna da cadeira de Projeto em Ciência de Dados II, uma cadeira extensionista que visa trazer casos reais para aplicação de Data Science e Machine Learning.
 
-O presente repositório contém a solução proposta para o obejtivo #2, citado em [Objetivos do Proejto](#objetivos-do-projeto). Para entendiemento do contexto do projeto, segue a descrição do Business Case enviado pela Escola de Medicina da PUCRS, a parceira da edição em que participei.
+O presente repositório contém a solução proposta para o obejtivo #2, citado em [Objetivos do Projeto](#objetivos-do-projeto). Para entendiemento do contexto do projeto, segue a descrição do Business Case enviado pela Escola de Medicina da PUCRS, a parceira da edição em que participei.
 
 ### Contexto do Business Case
  
